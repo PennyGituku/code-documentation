@@ -1,0 +1,22 @@
+# Core packages
+numpy
+pandas
+matplotlib
+tqdm
+Pillow
+
+# PyTorch and TorchVision
+torch>=2.0.0
+torchvision
+
+# PyTorch Lightning (new API)
+lightning>=2.0.0
+
+# Image models (TIMM)
+timm
+
+# Sklearn for metrics
+scikit-learn
+
+# TensorFlow 
+
