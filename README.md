@@ -91,4 +91,4 @@ python mushroom_classifier.py
 Make sure your dataset is in the expected folder structure or update the path in dir0.
 
 ## License
-This assignment is submitted for educational purposes under the GenAI curriculum.
+This assignment is submitted for educational purposes under the GenAI curriculum and credits to the kaggle code owner.
