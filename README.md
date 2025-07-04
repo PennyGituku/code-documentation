@@ -29,20 +29,32 @@ A PyTorch Lightning project for classifying mushroom images using a ResNet152 mo
 
 | File | Description |
 |------|-------------|
-| `mushroom_classifier.py` | Final documented code with docstrings and inline logic |
+| `documented.ipynb` | Final documented notebook with function docstrings and inline logic |
+| `mushroom-lightning-resnet-undocumented.ipynb` | Original code before documentation |
 | `requirements.txt` | Required dependencies for running the project |
-| `README.md` | Summary of task and how documentation aligns with the exercise |
-| `classification_report.txt` | (Optional) Output of model performance evaluation |
+| `README.md` | Summary of the task and how documentation aligns with the exercise |
+| `classification_report.txt` | (Optional) Output of model performance on test data |
+
+---
 
 ## Project Structure
 
 ```text
-.
-├── mushroom_classifier.py         # Main training script (documented)
-├── requirements.txt               # Project dependencies
-├── README.md                      # Project overview and instructions
-└── /kaggle/input/mushroom1/       # Root directory of the dataset (ImageFolder format)
+code-documentation/
+├── documented.ipynb                          
+├── mushroom-lightning-resnet-undocumented.ipynb  
+├── requirements.txt                         
+├── README.md                                
+└── dataset/
+    └── merged_dataset/                       
+        ├── class1/
+        ├── class2/
+        └── ...
 ```
+Note: The dataset is excluded from this repository to reduce file size and follow best practices.
+To run the code, download the mushroom dataset (e.g., from Kaggle), and place it in:
+code-documentation/dataset/merged_dataset/
+
 ---
 
 ## Documented Function (Prompt 1) example
