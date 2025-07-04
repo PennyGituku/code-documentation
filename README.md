@@ -33,7 +33,6 @@ A PyTorch Lightning project for classifying mushroom images using a ResNet152 mo
 | `mushroom-lightning-resnet-undocumented.ipynb` | Original code before documentation |
 | `requirements.txt` | Required dependencies for running the project |
 | `README.md` | Summary of the task and how documentation aligns with the exercise |
-| `classification_report.txt` | (Optional) Output of model performance on test data |
 
 ---
 
