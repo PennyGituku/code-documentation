@@ -55,7 +55,15 @@ To run the code, download the mushroom dataset (e.g., from Kaggle), and place it
 code-documentation/dataset/merged_dataset/
 
 ---
+##  Project Resources
 
+-  **Kaggle Notebook (Code)**:  
+  [Mushroom Lightning ResNet by stpeteishii](https://www.kaggle.com/code/stpeteishii/mushroom-lightning-resnet)
+
+-  **Kaggle Dataset (Images)**:  
+  [Mushroom1 Dataset by zlatan599](https://www.kaggle.com/datasets/zlatan599/mushroom1/data)
+
+---
 ## Documented Function (Prompt 1) example
 
 ```python
